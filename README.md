@@ -1,0 +1,1 @@
+Note-O-Matic is a user-friendly platform that allows students to upload, download, and manage their study materials efficiently. It provides a seamless way to access educational resources anytime, anywhere.
